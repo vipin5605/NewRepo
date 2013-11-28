@@ -1,6 +1,6 @@
 package com.example.accelerometer;
 
-import android.app.Activity;
+//import android.app.Activity;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
