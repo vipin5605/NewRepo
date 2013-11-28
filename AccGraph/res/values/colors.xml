@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="string">#FFFFFF</color>		<!-- white -->
+    <color name="background">#424242</color>	<!-- dark grey -->
+    <color name="zero_line">#BABABA</color>	<!-- light grey -->
+    <color name="accele_x">#FF0000</color>  <!-- red -->
+    <color name="accele_y">#00FF4C</color>  <!-- green -->
+    <color name="accele_z">#004CFF</color>	<!-- blue -->
+    <color name="accele_r">#FFEE00</color>
+</resources>
